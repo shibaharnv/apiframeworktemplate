@@ -1,0 +1,8 @@
+Project structure issue.. need to use quickstart maven template
+Feature file format issues .. fixed
+stepdefinition file: method mismatch
+addplace api enum resource name mismatch in feature file
+in properties file double quotes should not be there
+use system project directory path
+APIResources resourceAPI should be declared globally
+getPlaceAPI("/maps/api/place/get/json"), url is wrong
